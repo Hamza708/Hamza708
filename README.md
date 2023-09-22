@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ramzan</h1>
 <h3 align="center">A passionate Backend/Devops Developer from Pakistan</h3>
 
-I'm [Your Name], a passionate Node.js backend and DevOps developer with [X] years of experience. I love building scalable and efficient web applications using Node.js and optimizing the deployment and infrastructure processes with DevOps practices.
+<p align="left">I'm a passionate Node.js backend and DevOps developer with [X] years of experience. I love building scalable and efficient web applications using Node.js and optimizing the deployment and infrastructure processes with DevOps practices.</p>
 
 - 🔭 I’m currently working on **Easy Cash Card**
 
