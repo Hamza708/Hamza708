@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Easy Cash Card**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Advance DevOps**
 
 - 💬 Ask me about **MERN Stack**
 
