@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ramzan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Backend/Devops Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Easy Cash Card**
 
