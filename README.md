@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance DevOps**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Backend Engineering and DevOps**
 
 - 📫 How to reach me **hamzaramzan132@gmail.com**
 
