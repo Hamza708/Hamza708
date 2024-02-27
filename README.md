@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ramzan</h1>
-<h3 align="center">A passionate Backend/Devops Enginner from Pakistan</h3>
+<h3 align="center">A passionate Backend/Devops Engineer from Pakistan</h3>
 
 <p align="left">I'm a passionate Node.js backend and DevOps developer with 3+ years of experience. I love building scalable and efficient web applications and optimizing the deployment and infrastructure processes with DevOps practices.</p>
 
