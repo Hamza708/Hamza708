@@ -3,7 +3,7 @@
 
 <p align="left">I'm a passionate Node.js backend and DevOps developer with 3+ years of experience. I love building scalable and efficient web applications and optimizing the deployment and infrastructure processes with DevOps practices.</p>
 
-- 🔭 I’m currently working on **Easy Cash Card**
+- 🔭 I’m currently working on **Lava-e-remit**
 
 - 🌱 I’m currently learning **Advance DevOps**
 
