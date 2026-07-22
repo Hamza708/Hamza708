@@ -1,30 +1,31 @@
-# 👋 Hi, I’m Hamza Ramzan
+Hi, I'm Hamza Ramzan
 
-Senior / Lead **Backend Engineer** with **4+ years of experience** building production-grade backend systems for fintech and enterprise products.
+🚀 Senior / Lead Backend Engineer with 4+ years designing, building, and scaling backend systems for fintech and enterprise products — now expanding into AI/LLM engineering.
 
-I specialize in **Node.js**, **Express/Fastify**, **MongoDB**, and **AWS**, with hands-on experience designing **scalable APIs**, **multi-tenant architectures**, and **high-volume data processing systems**.
+📍 Taxila, Punjab, Pakistan · Open to global remote roles
 
----
+🔧 Tech Stack & Expertise
+Backend: Node.js, Express.js, Fastify, REST APIs
+Databases & Caching: MongoDB, MySQL, Redis
+Architecture: Multi-tenant systems, Microservices, RBAC, Background Jobs, Worker Threads
+Validation & Security: Joi, KYC / KYB workflows, Access Control
+Cloud & DevOps: AWS (EC2, S3, ECS, ECR), CI/CD pipelines
+Monitoring & Tools: Prometheus, Grafana, Git, Postman
+🤖 Currently Learning & Building — AI Engineering
+Stack: LangChain, LangGraph, OpenAI API, Retrieval-Augmented Generation (RAG), Vector Databases (Pinecone, Chroma)
+🔨 Building: an autonomous AI Research & Task Agent — combining my existing Node.js/Express backend architecture with OpenAI function-calling and vector-based memory. The agent plans multi-step tasks, calls external tools, evaluates its own output, and retries on failure.
+📝 Posting daily breakdowns of agentic AI concepts (RAG, vector databases, agent architecture) — connect on LinkedIn to follow along.
+💼 What I'm Doing Now
 
-## 🔧 Tech Stack & Expertise
+Leading backend development at Anemoia for UK-based fintech platforms (Easy-e-Money, Easy Cash Card, Lava-e-Remit) and a multi-tenant loyalty system:
 
-- **Backend:** Node.js, Express.js, Fastify, REST APIs  
-- **Databases & Caching:** MongoDB, MySQL, Redis  
-- **Architecture:** Multi-tenant systems, Microservices (LLS), RBAC, Background Jobs, Worker Threads  
-- **Validation & Security:** Joi, KYC / KYB workflows, Access Control  
-- **Cloud & DevOps:** AWS (EC2, S3, ECS, ECR), CI/CD pipelines  
-- **Monitoring & Tools:** Prometheus, Grafana, Git, Postman  
+Architecting REST APIs used across multi-tenant fintech products
+Implementing KYC/KYB onboarding workflows
+Optimizing infrastructure with Redis caching and worker threads for high-volume data processing
+Designing MongoDB schemas and queries for analytics dashboards
 
----
-
-## 🚀 What I’ve Built
-
-### 💳 Fintech Platforms
-- **Easy-e-Money** – UK-based e-money platform  
-- **Easy Cash Card** – Business finance & card management  
-- **Lava-e-Remit** – International remittance system  
-
-Worked on secure transaction APIs, KYC/KYB onboarding, Redis-based caching, and performance-critical backend services.
+🎯 Open To
+Senior Backend Engineer and AI/LLM Engineering roles with global remote teams — where backend rigor meets applied AI systems.
 
 ---
 
